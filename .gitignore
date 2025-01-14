@@ -1,0 +1,12 @@
+# Virtual environments
+.env
+env
+venv
+.venv
+
+# Vscode
+.vscode
+
+# Others
+examples
+example
